@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816816976248",
+    "project_id": "mm-weather-by-devin",
+    "storage_bucket": "mm-weather-by-devin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816816976248:android:fb984824794f286399188d",
+        "android_client_info": {
+          "package_name": "MM_Weather_by_Devin.v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcWLiRWAx-sq6GRZ2Xr12Xuaa4TMAay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

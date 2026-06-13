@@ -1,0 +1,6 @@
+{
+  "name": "MonsoonAlert",
+  "description": "Myanmar weather app with real-time monsoon alerts, Yangon township-wise forecasts, live traffic/road flooding status, and agricultural analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
